@@ -12,3 +12,4 @@ inspired by [todomvc](http://todomvc.com/)
 - i want to see the tasks i've done
 - i want to see how many tasks remain
 - i want to see how many tasks have been done
+- i want to be encouraged to complete more tasks

@@ -1,6 +1,6 @@
 practising various js styles/frameworks with a simple todo app
 
-inspired by todomvc
+inspired by [todomvc](http://todomvc.com/)
 
 ### user stories
 

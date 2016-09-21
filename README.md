@@ -5,6 +5,8 @@ inspired by [todomvc](http://todomvc.com/)
 ### user stories
 
 - i want to make a note for each task
+- i want to see an error if i try to enter an empty task
+- i want to see an error if the task already exists
 - i want to be able to edit existing tasks
 - i want to be able to delete existing tasks
 - i want to be able to mark tasks as done
@@ -12,4 +14,4 @@ inspired by [todomvc](http://todomvc.com/)
 - i want to see the tasks i've done
 - i want to see how many tasks remain
 - i want to see how many tasks have been done
-- i want to be encouraged to complete more tasks
+- i want to be encouraged to complete more tasks in the style of a dictatorial CEO
